@@ -1,4 +1,6 @@
-# Sanity Ecommerce Content Studio
+# Jamstack 2021 Workshop - How to create editor experiences your team will love
+
+Sanity Ecommerce Content Studio
 
 Congratulations, you have now installed the Sanity Content Studio, an open source real-time content editing environment connected to the Sanity backend.
 
@@ -9,4 +11,4 @@ Now you can do the following things:
 - [Read the blog post about this template](https://www.sanity.io/blog/e-commerce-vue-nuxt-snipcart?uutm_source=readme)
 - [Join the community Slack](https://slack.sanity.io/?utm_source=readme)
 - [Extend and build plugins](https://www.sanity.io/docs/content-studio/extending?utm_source=readme)
-# jamstack2021-editorexperience
+
