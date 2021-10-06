@@ -9,6 +9,19 @@ export default {
         type: 'string',
       },
       {
+        title: 'Vendor Partners',
+        name: 'vendorPartners',
+        type: 'reference',
+        to: [{type: 'vendor'}]
+      },
+      {
+        title: 'Vendor Logo',
+        name: 'vendorLogo',
+        type: 'figure',
+        description:
+          'SVG Only - Ideally this image has a transparent background for use over other images or on non-white backgrounds.',
+      },
+      {
         name: 'slug',
         title: 'Slug',
         type: 'slug',
