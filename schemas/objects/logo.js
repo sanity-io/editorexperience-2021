@@ -17,7 +17,7 @@ function requireSvg(imgObj) {
 // Object for logos
 export default {
   type: 'object',
-  name: 'figure',
+  name: 'logo',
   fieldsets: [
     {
       name: 'logoVersion',
@@ -30,7 +30,7 @@ export default {
   ],
   fields: [
     {
-      name: 'logoTransparent',
+      name: 'transparent',
       type: 'accessibleImage',
       title: 'Logo-Transparent Brackground',
       fieldset: 'logoVersion',
@@ -44,7 +44,7 @@ export default {
       ],
     },
     {
-      name: 'logoDark',
+      name: 'dark',
       type: 'accessibleImage',
       title: ' Logo-Dark Brackground',
       fieldset: 'logoVersion',
