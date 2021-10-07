@@ -42,15 +42,6 @@ export default {
       ],
     },
     {
-      name: 'mainImage',
-      title: 'Main image',
-      type: 'accessibleImage',
-      description: 'Add a poster for preview cards or image related to to text.',
-      options: {
-        hotspot: true,
-      },
-    },
-    {
       name: 'body',
       title: 'Body',
       type: 'blockContent',
