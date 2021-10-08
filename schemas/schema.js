@@ -18,8 +18,8 @@ import localeString from './locale/String'
 import localeText from './locale/Text'
 import localeBlockContent from './locale/BlockContent'
 import authors from './objects/authors'
-import figure from './objects/figure'
-
+import logo from './objects/logo'
+import accessibleImage from './objects/accessibleImage'
 
 // Then we give our schema to the builder and provide the result to Sanity
 export default createSchema({
@@ -44,6 +44,7 @@ export default createSchema({
     localeString,
     productVariant,
     authors,
-    figure,
+    accessibleImage,
+    logo,
   ]),
 })
