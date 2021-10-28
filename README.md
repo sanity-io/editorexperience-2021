@@ -1,4 +1,4 @@
-# Jamstack 2021 Workshop - How to create editor experiences your team will love
+# Editor Experience 2021 Workshop - How to create editor experiences your team will love
 
 Sanity Ecommerce Content Studio
 
